@@ -52,7 +52,8 @@ The dashboard includes:
 
 ## 📷 Dashboard Preview
 
-![FNP Sales Dashboard](Screenshots/Dashboard.png)
+<img width="1695" height="767" alt="Dashboard Image" src="https://github.com/user-attachments/assets/fb1c0ff5-05f3-485f-a8d5-c37cb07c0795" />
+
 
 ## 💡 Key Insights
 
